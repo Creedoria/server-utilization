@@ -21,7 +21,7 @@
 - File logs stored in:
 
 
-**Project URL**: https://github.com/Creedoria/server-utilization
+**Project URL**: [https://github.com/Creedoria/server-utilization](https://roadmap.sh/projects/server-stats)
 
 📌 Use Case
  - This project is useful for:
